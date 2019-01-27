@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<party datum="31.12.01">
+  <gast name="Albert Angsthase">
+    <getraenk>Wein</getraenk>
+    <getraenk>Bier</getraenk>
+    <zustand ledig="true" nuechtern="false" />
+  </gast>
+  <gast name="Martina Mutig">
+    <getraenk>Apfelsaft</getraenk>
+    <zustand ledig="true" nuechtern="true" />
+    <getraenk>Wein</getraenk>
+    <getraenk>Wein</getraenk>
+    <bungalow>ggaga</bungalow>
+  </gast>
+  <gast name="Zacharias Zottelig" />
+</party>

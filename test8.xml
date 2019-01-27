@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typ1:test xmlns:typ1="typ1" xmlns="typ1" xmlns:typ="typ1">
+	<typ1:productInstance>
+		<typ1:relation>
+			<typ1:name>has_EVC</typ1:name>
+			<typ1:relationType>hasPart</typ1:relationType>
+			<typ1:productInstanceID>
+				<!--productInstance/relation/has_EVC/ID/514da96a-0767-440b-ad63-97eaa1c2322a -->
+				<typ1:ID>514da96a-0767-440b-ad63-97eaa1c2322a</typ1:ID>
+			</typ1:productInstanceID>
+		</typ1:relation>
+		<typ1:relation>
+			<typ1:name>has_Servicelevel</typ1:name>
+			<typ1:relationType>hasPart</typ1:relationType>
+			<typ1:productInstanceID>
+				<typ1:ID>69bb2f26-e599-413d-b3c9-31fc6e7c918f</typ1:ID>
+			</typ1:productInstanceID>
+		</typ1:relation>
+	</typ1:productInstance>
+</typ1:test>
+
+

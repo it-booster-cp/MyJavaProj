@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cdliste>
+<cd id="65" jahr="2000">
+	<titel>Music</titel>
+	<interpret>Madonna</interpret>
+	<hersteller>BMG</hersteller>
+</cd>
+<cd id="26" jahr="1995">
+	<titel>Ray of light</titel>
+	<interpret>Madonna</interpret>
+	<hersteller>BMG</hersteller>
+</cd>
+</cdliste>

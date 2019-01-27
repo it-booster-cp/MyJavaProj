@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliothek>
+	<Buecher>
+		<Buch>Faulen mach Spass</Buch>
+		<Buch>Das Leben der Andi</Buch>
+		<Buch>Pipi's Abenteuerreise in Wikileaks</Buch>
+	</Buecher>
+	<Personen>
+		<Person>Fathmi Bulon</Person>
+		<Person>Jansen Smörebrot</Person>
+		<Person>Ulrich Labil</Person>
+	</Personen>
+</Bibliothek>

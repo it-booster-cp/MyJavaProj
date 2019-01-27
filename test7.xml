@@ -1,0 +1,19 @@
+<party datum="31.12.01">
+	<gast name="Albert Angsthase">
+		<getraenk>Wein</getraenk>
+		<getraenk>Bier</getraenk>
+		<zustand ledig="true" nuechtern="false"/>
+	</gast>
+	<gast name="Martina Mutig">
+		<getraenk>Apfelsaft</getraenk>
+		<zustand ledig="true" nuechtern="true"/>
+	</gast>
+	<gast name="Zacharias Zottelig"/>
+	<typ1:relation>
+		<typ1:name>has_EVC</typ1:name>
+		<typ1:relationType>hasPart</typ1:relationType>
+		<typ1:productInstanceID>
+			<typ1:ID>514da96a-0767-440b-ad63-97eaa1c2322a</typ1:ID>
+		</typ1:productInstanceID>
+	</typ1:relation>
+</party>

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jul 16 23:04:08 CEST 2017:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): Instanz a816c00e-015d-4d37-2e5e-00000e607910
+für Datenbankverzeichnis C:\Temp\tutorialsDB mit Class Loader sun.misc.Launcher$AppClassLoader@73d16e93
+Geladen aus file:/C:/Users/pietzuchc/Downloads/db-derby-10.13.1.1-bin/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\pietzuchc\workspace\MyProj
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
