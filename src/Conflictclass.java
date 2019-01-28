@@ -5,6 +5,8 @@ public class Conflictclass {
 	// MASTER'S ESTATE 2te Änderung
  
 	// DAISYS ENTRY
+
+	// DAISYS 2nd ENTRY
  
 
 }
