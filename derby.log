@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Sun Jul 16 23:04:08 CEST 2017:
-Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): Instanz a816c00e-015d-4d37-2e5e-00000e607910
-für Datenbankverzeichnis C:\Temp\tutorialsDB mit Class Loader sun.misc.Launcher$AppClassLoader@73d16e93
+Thu Mar 14 15:18:36 CET 2019:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): Instanz a816c00e-0169-7c91-af5d-00000e607068
+für Datenbankverzeichnis C:\Users\pietzuchc\workspace\MyProj\APP mit Class Loader sun.misc.Launcher$AppClassLoader@73d16e93
 Geladen aus file:/C:/Users/pietzuchc/Downloads/db-derby-10.13.1.1-bin/db-derby-10.13.1.1-bin/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_131-b11
@@ -11,3 +11,6 @@ os.arch=amd64
 os.version=6.1
 derby.system.home=null
 Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Mar 14 15:18:37 CET 2019:
+Instanz a816c00e-0169-7c91-af5d-00000e607068 im Datenbankverzeichnis C:\Users\pietzuchc\workspace\MyProj\APP mit Class Loader sun.misc.Launcher$AppClassLoader@73d16e93 wird heruntergefahren
