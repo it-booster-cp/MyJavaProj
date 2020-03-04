@@ -13,7 +13,7 @@ class ArraySort implements Comparator<ProduktXXX>{
         if(e1.getProdukt() == e2.getProdukt()){
             return 1;
         } else {
-            return -1;
+            return -1; 
         }
     }
 
